@@ -1,0 +1,4 @@
+fastapi
+asyncio
+fastapi["standard"]
+uvicorn["standard"]
